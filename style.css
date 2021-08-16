@@ -1,0 +1,35 @@
+
+h1 {
+    color: brown;
+}
+
+/* {
+    border: solid;
+}*/
+.header{
+background-color: aquamarine;
+display: flex;
+justify-content: space-between;
+
+}
+.grid{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+.social{
+display: flex;
+justify-content: flex-end;
+}
+p,h2{
+text-align: center;
+}
+body{
+background-color:#808080;
+border-color: black;
+font-family:arial;
+font-size: medium;
+
+}
+
+
